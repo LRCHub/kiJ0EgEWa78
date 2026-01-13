@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "鬼灯日和",
+  "base_artist": "いろはにほへっと あやふぶみ",
+  "createdAt": "2026-01-13T03:14:03.872704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鬼灯日和",
+      "artist": "いろはにほへっと あやふぶみ",
+      "has_synced": true,
+      "path": "select/01_鬼灯日和_いろはにほへっと_あやふぶみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鬼灯日和",
+      "artist": "いろはにほへっと あやふぶみ",
+      "has_synced": false,
+      "path": "select/pl_01_鬼灯日和_いろはにほへっと_あやふぶみ.txt"
+    }
+  ]
+}
